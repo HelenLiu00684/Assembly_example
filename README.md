@@ -1,0 +1,2 @@
+# Assembly Example
+Demo 1.0 -This demo is a Linux x86-64 NASM program that reads multiple string inputs, converts numeric strings to integers, performs simple arithmetic, and converts the result back to a string for output. 2026-01-07
